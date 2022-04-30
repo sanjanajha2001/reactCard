@@ -1,0 +1,25 @@
+.main_div{
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 25%;
+    /* height: 110%; */
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 15px 136px;
+  }
+  img{
+      width: 22rem;
+      height: 26rem;
+      margin-left: 50px;
+      margin-top: 30px;
+  }
